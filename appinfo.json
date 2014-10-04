@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nicoplv.auto@gmail.com",
+    "longName": "Tope!",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Tope!",
+    "uuid": "54ccf6fe-1af4-456a-8ee8-4726c96d0bcd",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
